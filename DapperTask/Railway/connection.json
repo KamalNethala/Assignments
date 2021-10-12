@@ -1,0 +1,6 @@
+{
+  "ConnectionStrings": {
+    "DefaultConnection": "Server=SAILS-DM87;Database=RailTask;Trusted_Connection=True;MultipleActiveResultSets=true"
+  }
+
+  }

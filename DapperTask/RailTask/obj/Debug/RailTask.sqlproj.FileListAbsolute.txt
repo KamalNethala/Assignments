@@ -1,0 +1,6 @@
+C:\Users\SAILS-DM87\source\repos\DapperTask\RailTask\bin\Debug\RailTask.dacpac
+C:\Users\SAILS-DM87\source\repos\DapperTask\RailTask\bin\Debug\RailTask.dll
+C:\Users\SAILS-DM87\source\repos\DapperTask\RailTask\bin\Debug\RailTask.pdb
+C:\Users\SAILS-DM87\source\repos\DapperTask\RailTask\obj\Debug\RailTask.sqlproj.AssemblyReference.cache
+C:\Users\SAILS-DM87\source\repos\DapperTask\RailTask\obj\Debug\RailTask.dll
+C:\Users\SAILS-DM87\source\repos\DapperTask\RailTask\obj\Debug\RailTask.pdb

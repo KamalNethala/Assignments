@@ -1,0 +1,12 @@
+C:\Users\SAILS-DM87\source\repos\DapperTask\DataLayer\bin\Debug\net5.0\DataLayer.deps.json
+C:\Users\SAILS-DM87\source\repos\DapperTask\DataLayer\bin\Debug\net5.0\DataLayer.dll
+C:\Users\SAILS-DM87\source\repos\DapperTask\DataLayer\bin\Debug\net5.0\ref\DataLayer.dll
+C:\Users\SAILS-DM87\source\repos\DapperTask\DataLayer\bin\Debug\net5.0\DataLayer.pdb
+C:\Users\SAILS-DM87\source\repos\DapperTask\DataLayer\obj\Debug\net5.0\DataLayer.csproj.AssemblyReference.cache
+C:\Users\SAILS-DM87\source\repos\DapperTask\DataLayer\obj\Debug\net5.0\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAILS-DM87\source\repos\DapperTask\DataLayer\obj\Debug\net5.0\DataLayer.AssemblyInfoInputs.cache
+C:\Users\SAILS-DM87\source\repos\DapperTask\DataLayer\obj\Debug\net5.0\DataLayer.AssemblyInfo.cs
+C:\Users\SAILS-DM87\source\repos\DapperTask\DataLayer\obj\Debug\net5.0\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\SAILS-DM87\source\repos\DapperTask\DataLayer\obj\Debug\net5.0\DataLayer.dll
+C:\Users\SAILS-DM87\source\repos\DapperTask\DataLayer\obj\Debug\net5.0\ref\DataLayer.dll
+C:\Users\SAILS-DM87\source\repos\DapperTask\DataLayer\obj\Debug\net5.0\DataLayer.pdb
