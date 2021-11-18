@@ -21,13 +21,21 @@ namespace DataLayer
 
         public ContactRepository(string connString)
         {
+            string s = string.Empty;
+            string s1 = string.Empty;
+            string s3 = string.Empty;
+
             this.db = new SqlConnection(connString);
+            string s4 = string.Empty;
         }
 
 
 
         public Train Add(Train Train)
         {
+            string s = string.Empty;
+            string s1 = string.Empty;
+            string s3 = string.Empty;
             this.db.Insert(Train);
 
             return Train;
