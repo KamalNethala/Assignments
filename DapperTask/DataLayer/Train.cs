@@ -13,5 +13,6 @@ namespace DataLayer
         public TimeSpan Start_time { get; set; }
         public DateTime End_date { get; set; }
         public TimeSpan End_time { get; set; }
+        public string name { get; set; }
     }
 }
